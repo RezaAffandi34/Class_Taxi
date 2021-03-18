@@ -1,0 +1,7 @@
+D:\Class Taxi\Class Taxi\bin\Debug\Class Taxi.exe.config
+D:\Class Taxi\Class Taxi\bin\Debug\Class Taxi.exe
+D:\Class Taxi\Class Taxi\bin\Debug\Class Taxi.pdb
+D:\Class Taxi\Class Taxi\obj\Debug\Class Taxi.csprojAssemblyReference.cache
+D:\Class Taxi\Class Taxi\obj\Debug\Class Taxi.csproj.CoreCompileInputs.cache
+D:\Class Taxi\Class Taxi\obj\Debug\Class Taxi.exe
+D:\Class Taxi\Class Taxi\obj\Debug\Class Taxi.pdb
